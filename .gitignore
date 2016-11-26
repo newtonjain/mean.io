@@ -53,19 +53,11 @@ node_modules/
 # --------------------
 # Bower Files
 # --------------------
-.bower-*/
-bower_components
+
 
 # --------------------
 # App Files
 # --------------------
-data/
-tests/results/**
-modules/public/
-modules/views/
-/public/build/
-/packages/contrib/
-/packages/**/**/public/assets/lib
 
 
 # --------------------
@@ -74,4 +66,3 @@ modules/views/
 *.swp
 
 #webpack
-/bundle
